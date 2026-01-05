@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>El patinaje artístico como disciplina</title>
+</head>
+<body>
+
+  <h1>El patinaje artístico</h1>
+
+  <p>
+    El patinaje artístico es una disciplina deportiva que combina técnica,
+    expresión corporal y música. Requiere coordinación, equilibrio y una
+    conexión profunda entre el movimiento y la emoción.
+  </p>
+
+  <h2>¿Qué es el patinaje artístico?</h2>
+  <p>
+    Es un deporte que se practica sobre patines y que integra saltos, giros
+    y secuencias coreográficas, evaluadas tanto por su dificultad técnica
+    como por su expresión artística.
+  </p>
+
+  <h2>Importancia del patinaje artístico</h2>
+  <p>
+    El patinaje artístico favorece la disciplina, la constancia y la
+    creatividad, además de fortalecer el cuerpo y la mente de quienes lo
+    practican.
+  </p>
+
+  <h2>Elementos principales</h2>
+  <ul>
+    <li>Saltos</li>
+    <li>Giros</li>
+    <li>Coreografía</li>
+    <li>Expresión corporal</li>
+  </ul>
+
+  <h2>Fuentes</h2>
+  <p>
+    Federación Internacional de Patinaje <br>
+    Comité Olímpico Internacional
+  </p>
+
+</body>
+</html>
